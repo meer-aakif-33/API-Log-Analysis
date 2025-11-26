@@ -1,0 +1,3002 @@
+[
+  {
+    "timestamp": "2025-01-15T10:00:02Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 2440,
+    "status_code": 200,
+    "user_id": "user_37",
+    "request_size_bytes": 3268,
+    "response_size_bytes": 5399
+  },
+  {
+    "timestamp": "2025-01-15T10:00:05Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 2420,
+    "status_code": 500,
+    "user_id": "user_5",
+    "request_size_bytes": 1577,
+    "response_size_bytes": 21780
+  },
+  {
+    "timestamp": "2025-01-15T10:00:12Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1203,
+    "status_code": 200,
+    "user_id": "user_7",
+    "request_size_bytes": 3230,
+    "response_size_bytes": 3334
+  },
+  {
+    "timestamp": "2025-01-15T10:00:18Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 877,
+    "status_code": 200,
+    "user_id": "user_22",
+    "request_size_bytes": 948,
+    "response_size_bytes": 17753
+  },
+  {
+    "timestamp": "2025-01-15T10:00:23Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1854,
+    "status_code": 200,
+    "user_id": "user_50",
+    "request_size_bytes": 1768,
+    "response_size_bytes": 3021
+  },
+  {
+    "timestamp": "2025-01-15T10:00:27Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1252,
+    "status_code": 404,
+    "user_id": "user_51",
+    "request_size_bytes": 839,
+    "response_size_bytes": 13478
+  },
+  {
+    "timestamp": "2025-01-15T10:00:32Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1158,
+    "status_code": 200,
+    "user_id": "user_22",
+    "request_size_bytes": 351,
+    "response_size_bytes": 19819
+  },
+  {
+    "timestamp": "2025-01-15T10:00:36Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 1084,
+    "status_code": 200,
+    "user_id": "user_49",
+    "request_size_bytes": 1719,
+    "response_size_bytes": 11906
+  },
+  {
+    "timestamp": "2025-01-15T10:00:38Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1328,
+    "status_code": 200,
+    "user_id": "user_3",
+    "request_size_bytes": 2349,
+    "response_size_bytes": 7706
+  },
+  {
+    "timestamp": "2025-01-15T10:00:45Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1442,
+    "status_code": 200,
+    "user_id": "user_8",
+    "request_size_bytes": 1409,
+    "response_size_bytes": 3643
+  },
+  {
+    "timestamp": "2025-01-15T10:00:52Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1253,
+    "status_code": 200,
+    "user_id": "user_6",
+    "request_size_bytes": 2131,
+    "response_size_bytes": 2670
+  },
+  {
+    "timestamp": "2025-01-15T10:00:57Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 590,
+    "status_code": 404,
+    "user_id": "user_31",
+    "request_size_bytes": 3364,
+    "response_size_bytes": 19613
+  },
+  {
+    "timestamp": "2025-01-15T10:01:04Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1942,
+    "status_code": 200,
+    "user_id": "user_15",
+    "request_size_bytes": 2124,
+    "response_size_bytes": 8178
+  },
+  {
+    "timestamp": "2025-01-15T10:01:11Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 1133,
+    "status_code": 200,
+    "user_id": "user_25",
+    "request_size_bytes": 3252,
+    "response_size_bytes": 12033
+  },
+  {
+    "timestamp": "2025-01-15T10:01:13Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1984,
+    "status_code": 200,
+    "user_id": "user_16",
+    "request_size_bytes": 478,
+    "response_size_bytes": 13126
+  },
+  {
+    "timestamp": "2025-01-15T10:01:16Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 241,
+    "status_code": 404,
+    "user_id": "user_36",
+    "request_size_bytes": 3949,
+    "response_size_bytes": 10619
+  },
+  {
+    "timestamp": "2025-01-15T10:01:22Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 2110,
+    "status_code": 200,
+    "user_id": "user_3",
+    "request_size_bytes": 3445,
+    "response_size_bytes": 2918
+  },
+  {
+    "timestamp": "2025-01-15T10:01:26Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2016,
+    "status_code": 200,
+    "user_id": "user_39",
+    "request_size_bytes": 797,
+    "response_size_bytes": 3084
+  },
+  {
+    "timestamp": "2025-01-15T10:01:32Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2350,
+    "status_code": 200,
+    "user_id": "user_33",
+    "request_size_bytes": 1919,
+    "response_size_bytes": 12684
+  },
+  {
+    "timestamp": "2025-01-15T10:01:38Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 1069,
+    "status_code": 201,
+    "user_id": "user_32",
+    "request_size_bytes": 1980,
+    "response_size_bytes": 11978
+  },
+  {
+    "timestamp": "2025-01-15T10:01:40Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 2024,
+    "status_code": 200,
+    "user_id": "user_56",
+    "request_size_bytes": 2823,
+    "response_size_bytes": 14774
+  },
+  {
+    "timestamp": "2025-01-15T10:01:46Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1076,
+    "status_code": 200,
+    "user_id": "user_21",
+    "request_size_bytes": 2228,
+    "response_size_bytes": 16923
+  },
+  {
+    "timestamp": "2025-01-15T10:01:50Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 1018,
+    "status_code": 404,
+    "user_id": "user_35",
+    "request_size_bytes": 2809,
+    "response_size_bytes": 4171
+  },
+  {
+    "timestamp": "2025-01-15T10:01:55Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1425,
+    "status_code": 200,
+    "user_id": "user_53",
+    "request_size_bytes": 1115,
+    "response_size_bytes": 11806
+  },
+  {
+    "timestamp": "2025-01-15T10:01:59Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 1456,
+    "status_code": 201,
+    "user_id": "user_35",
+    "request_size_bytes": 1072,
+    "response_size_bytes": 991
+  },
+  {
+    "timestamp": "2025-01-15T10:02:04Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 783,
+    "status_code": 200,
+    "user_id": "user_13",
+    "request_size_bytes": 487,
+    "response_size_bytes": 3847
+  },
+  {
+    "timestamp": "2025-01-15T10:02:07Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 1193,
+    "status_code": 200,
+    "user_id": "user_15",
+    "request_size_bytes": 2731,
+    "response_size_bytes": 23083
+  },
+  {
+    "timestamp": "2025-01-15T10:02:12Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1117,
+    "status_code": 200,
+    "user_id": "user_55",
+    "request_size_bytes": 3549,
+    "response_size_bytes": 11644
+  },
+  {
+    "timestamp": "2025-01-15T10:02:15Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1735,
+    "status_code": 200,
+    "user_id": "user_16",
+    "request_size_bytes": 343,
+    "response_size_bytes": 979
+  },
+  {
+    "timestamp": "2025-01-15T10:02:18Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 2233,
+    "status_code": 200,
+    "user_id": "user_58",
+    "request_size_bytes": 1451,
+    "response_size_bytes": 1857
+  },
+  {
+    "timestamp": "2025-01-15T10:02:23Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 1604,
+    "status_code": 200,
+    "user_id": "user_34",
+    "request_size_bytes": 3220,
+    "response_size_bytes": 23879
+  },
+  {
+    "timestamp": "2025-01-15T10:02:29Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 669,
+    "status_code": 500,
+    "user_id": "user_37",
+    "request_size_bytes": 2730,
+    "response_size_bytes": 13813
+  },
+  {
+    "timestamp": "2025-01-15T10:02:36Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1282,
+    "status_code": 200,
+    "user_id": "user_24",
+    "request_size_bytes": 1967,
+    "response_size_bytes": 14869
+  },
+  {
+    "timestamp": "2025-01-15T10:02:42Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 1922,
+    "status_code": 200,
+    "user_id": "user_44",
+    "request_size_bytes": 2770,
+    "response_size_bytes": 5108
+  },
+  {
+    "timestamp": "2025-01-15T10:02:48Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1014,
+    "status_code": 200,
+    "user_id": "user_12",
+    "request_size_bytes": 1920,
+    "response_size_bytes": 14690
+  },
+  {
+    "timestamp": "2025-01-15T10:02:54Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 950,
+    "status_code": 200,
+    "user_id": "user_19",
+    "request_size_bytes": 3165,
+    "response_size_bytes": 8393
+  },
+  {
+    "timestamp": "2025-01-15T10:02:59Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 2232,
+    "status_code": 200,
+    "user_id": "user_30",
+    "request_size_bytes": 1221,
+    "response_size_bytes": 23153
+  },
+  {
+    "timestamp": "2025-01-15T10:03:06Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 1081,
+    "status_code": 200,
+    "user_id": "user_38",
+    "request_size_bytes": 2758,
+    "response_size_bytes": 7030
+  },
+  {
+    "timestamp": "2025-01-15T10:03:11Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1147,
+    "status_code": 200,
+    "user_id": "user_1",
+    "request_size_bytes": 2647,
+    "response_size_bytes": 23705
+  },
+  {
+    "timestamp": "2025-01-15T10:03:14Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1471,
+    "status_code": 200,
+    "user_id": "user_17",
+    "request_size_bytes": 2630,
+    "response_size_bytes": 16827
+  },
+  {
+    "timestamp": "2025-01-15T10:03:21Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 1290,
+    "status_code": 200,
+    "user_id": "user_29",
+    "request_size_bytes": 3699,
+    "response_size_bytes": 6516
+  },
+  {
+    "timestamp": "2025-01-15T10:03:27Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 105,
+    "status_code": 201,
+    "user_id": "user_30",
+    "request_size_bytes": 4047,
+    "response_size_bytes": 23179
+  },
+  {
+    "timestamp": "2025-01-15T10:03:33Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1553,
+    "status_code": 200,
+    "user_id": "user_18",
+    "request_size_bytes": 604,
+    "response_size_bytes": 11340
+  },
+  {
+    "timestamp": "2025-01-15T10:03:38Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 2003,
+    "status_code": 200,
+    "user_id": "user_11",
+    "request_size_bytes": 1712,
+    "response_size_bytes": 9401
+  },
+  {
+    "timestamp": "2025-01-15T10:03:41Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 2183,
+    "status_code": 200,
+    "user_id": "user_57",
+    "request_size_bytes": 2159,
+    "response_size_bytes": 3615
+  },
+  {
+    "timestamp": "2025-01-15T10:03:43Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 1679,
+    "status_code": 404,
+    "user_id": "user_44",
+    "request_size_bytes": 207,
+    "response_size_bytes": 16155
+  },
+  {
+    "timestamp": "2025-01-15T10:03:48Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 897,
+    "status_code": 200,
+    "user_id": "user_51",
+    "request_size_bytes": 2289,
+    "response_size_bytes": 23981
+  },
+  {
+    "timestamp": "2025-01-15T10:03:50Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 907,
+    "status_code": 200,
+    "user_id": "user_60",
+    "request_size_bytes": 2583,
+    "response_size_bytes": 4093
+  },
+  {
+    "timestamp": "2025-01-15T10:03:54Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 1826,
+    "status_code": 200,
+    "user_id": "user_42",
+    "request_size_bytes": 3045,
+    "response_size_bytes": 22451
+  },
+  {
+    "timestamp": "2025-01-15T10:04:00Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 919,
+    "status_code": 200,
+    "user_id": "user_53",
+    "request_size_bytes": 1988,
+    "response_size_bytes": 12744
+  },
+  {
+    "timestamp": "2025-01-15T10:04:05Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 2587,
+    "status_code": 200,
+    "user_id": "user_3",
+    "request_size_bytes": 2474,
+    "response_size_bytes": 10387
+  },
+  {
+    "timestamp": "2025-01-15T10:04:12Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1814,
+    "status_code": 200,
+    "user_id": "user_56",
+    "request_size_bytes": 2926,
+    "response_size_bytes": 16413
+  },
+  {
+    "timestamp": "2025-01-15T10:04:19Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 421,
+    "status_code": 200,
+    "user_id": "user_7",
+    "request_size_bytes": 1558,
+    "response_size_bytes": 14487
+  },
+  {
+    "timestamp": "2025-01-15T10:04:25Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 2423,
+    "status_code": 200,
+    "user_id": "user_30",
+    "request_size_bytes": 1607,
+    "response_size_bytes": 13941
+  },
+  {
+    "timestamp": "2025-01-15T10:04:31Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1665,
+    "status_code": 200,
+    "user_id": "user_57",
+    "request_size_bytes": 1589,
+    "response_size_bytes": 20802
+  },
+  {
+    "timestamp": "2025-01-15T10:04:38Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1469,
+    "status_code": 200,
+    "user_id": "user_9",
+    "request_size_bytes": 889,
+    "response_size_bytes": 19597
+  },
+  {
+    "timestamp": "2025-01-15T10:04:43Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 2524,
+    "status_code": 200,
+    "user_id": "user_35",
+    "request_size_bytes": 2214,
+    "response_size_bytes": 5188
+  },
+  {
+    "timestamp": "2025-01-15T10:04:50Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 2334,
+    "status_code": 201,
+    "user_id": "user_31",
+    "request_size_bytes": 2853,
+    "response_size_bytes": 10960
+  },
+  {
+    "timestamp": "2025-01-15T10:04:56Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 1316,
+    "status_code": 200,
+    "user_id": "user_54",
+    "request_size_bytes": 3778,
+    "response_size_bytes": 6752
+  },
+  {
+    "timestamp": "2025-01-15T10:04:59Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 534,
+    "status_code": 200,
+    "user_id": "user_38",
+    "request_size_bytes": 3639,
+    "response_size_bytes": 17210
+  },
+  {
+    "timestamp": "2025-01-15T10:05:03Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 874,
+    "status_code": 404,
+    "user_id": "user_35",
+    "request_size_bytes": 3650,
+    "response_size_bytes": 4129
+  },
+  {
+    "timestamp": "2025-01-15T10:05:05Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 1987,
+    "status_code": 201,
+    "user_id": "user_52",
+    "request_size_bytes": 455,
+    "response_size_bytes": 5806
+  },
+  {
+    "timestamp": "2025-01-15T10:05:08Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 956,
+    "status_code": 201,
+    "user_id": "user_33",
+    "request_size_bytes": 1973,
+    "response_size_bytes": 6258
+  },
+  {
+    "timestamp": "2025-01-15T10:05:12Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 1130,
+    "status_code": 200,
+    "user_id": "user_60",
+    "request_size_bytes": 948,
+    "response_size_bytes": 19283
+  },
+  {
+    "timestamp": "2025-01-15T10:05:18Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 705,
+    "status_code": 200,
+    "user_id": "user_16",
+    "request_size_bytes": 574,
+    "response_size_bytes": 8160
+  },
+  {
+    "timestamp": "2025-01-15T10:05:24Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 236,
+    "status_code": 200,
+    "user_id": "user_52",
+    "request_size_bytes": 2610,
+    "response_size_bytes": 789
+  },
+  {
+    "timestamp": "2025-01-15T10:05:29Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 1159,
+    "status_code": 200,
+    "user_id": "user_19",
+    "request_size_bytes": 438,
+    "response_size_bytes": 12820
+  },
+  {
+    "timestamp": "2025-01-15T10:05:33Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 838,
+    "status_code": 500,
+    "user_id": "user_2",
+    "request_size_bytes": 3023,
+    "response_size_bytes": 11522
+  },
+  {
+    "timestamp": "2025-01-15T10:05:37Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 815,
+    "status_code": 500,
+    "user_id": "user_12",
+    "request_size_bytes": 936,
+    "response_size_bytes": 13842
+  },
+  {
+    "timestamp": "2025-01-15T10:05:39Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 2167,
+    "status_code": 200,
+    "user_id": "user_8",
+    "request_size_bytes": 2492,
+    "response_size_bytes": 14563
+  },
+  {
+    "timestamp": "2025-01-15T10:05:44Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 1554,
+    "status_code": 201,
+    "user_id": "user_19",
+    "request_size_bytes": 613,
+    "response_size_bytes": 17553
+  },
+  {
+    "timestamp": "2025-01-15T10:05:51Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 307,
+    "status_code": 200,
+    "user_id": "user_14",
+    "request_size_bytes": 4078,
+    "response_size_bytes": 9902
+  },
+  {
+    "timestamp": "2025-01-15T10:05:56Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 311,
+    "status_code": 200,
+    "user_id": "user_28",
+    "request_size_bytes": 1797,
+    "response_size_bytes": 23275
+  },
+  {
+    "timestamp": "2025-01-15T10:05:59Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 669,
+    "status_code": 200,
+    "user_id": "user_22",
+    "request_size_bytes": 501,
+    "response_size_bytes": 18200
+  },
+  {
+    "timestamp": "2025-01-15T10:06:06Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 663,
+    "status_code": 200,
+    "user_id": "user_11",
+    "request_size_bytes": 3863,
+    "response_size_bytes": 18460
+  },
+  {
+    "timestamp": "2025-01-15T10:06:09Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1835,
+    "status_code": 201,
+    "user_id": "user_53",
+    "request_size_bytes": 2494,
+    "response_size_bytes": 21173
+  },
+  {
+    "timestamp": "2025-01-15T10:06:11Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 2518,
+    "status_code": 200,
+    "user_id": "user_26",
+    "request_size_bytes": 913,
+    "response_size_bytes": 14378
+  },
+  {
+    "timestamp": "2025-01-15T10:06:17Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 972,
+    "status_code": 200,
+    "user_id": "user_57",
+    "request_size_bytes": 1487,
+    "response_size_bytes": 14945
+  },
+  {
+    "timestamp": "2025-01-15T10:06:24Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 556,
+    "status_code": 200,
+    "user_id": "user_55",
+    "request_size_bytes": 3582,
+    "response_size_bytes": 11806
+  },
+  {
+    "timestamp": "2025-01-15T10:06:27Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 2457,
+    "status_code": 200,
+    "user_id": "user_5",
+    "request_size_bytes": 921,
+    "response_size_bytes": 3502
+  },
+  {
+    "timestamp": "2025-01-15T10:06:31Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 960,
+    "status_code": 200,
+    "user_id": "user_3",
+    "request_size_bytes": 1122,
+    "response_size_bytes": 17201
+  },
+  {
+    "timestamp": "2025-01-15T10:06:34Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1810,
+    "status_code": 200,
+    "user_id": "user_38",
+    "request_size_bytes": 2776,
+    "response_size_bytes": 9845
+  },
+  {
+    "timestamp": "2025-01-15T10:06:40Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1704,
+    "status_code": 200,
+    "user_id": "user_19",
+    "request_size_bytes": 1977,
+    "response_size_bytes": 1500
+  },
+  {
+    "timestamp": "2025-01-15T10:06:44Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 2052,
+    "status_code": 200,
+    "user_id": "user_44",
+    "request_size_bytes": 1719,
+    "response_size_bytes": 15257
+  },
+  {
+    "timestamp": "2025-01-15T10:06:49Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 191,
+    "status_code": 200,
+    "user_id": "user_20",
+    "request_size_bytes": 1418,
+    "response_size_bytes": 8889
+  },
+  {
+    "timestamp": "2025-01-15T10:06:55Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 2416,
+    "status_code": 200,
+    "user_id": "user_58",
+    "request_size_bytes": 2310,
+    "response_size_bytes": 13652
+  },
+  {
+    "timestamp": "2025-01-15T10:07:02Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 718,
+    "status_code": 200,
+    "user_id": "user_50",
+    "request_size_bytes": 3957,
+    "response_size_bytes": 11222
+  },
+  {
+    "timestamp": "2025-01-15T10:07:07Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 787,
+    "status_code": 200,
+    "user_id": "user_30",
+    "request_size_bytes": 2684,
+    "response_size_bytes": 2770
+  },
+  {
+    "timestamp": "2025-01-15T10:07:12Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 789,
+    "status_code": 404,
+    "user_id": "user_30",
+    "request_size_bytes": 3368,
+    "response_size_bytes": 2830
+  },
+  {
+    "timestamp": "2025-01-15T10:07:17Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 1277,
+    "status_code": 200,
+    "user_id": "user_15",
+    "request_size_bytes": 4035,
+    "response_size_bytes": 17533
+  },
+  {
+    "timestamp": "2025-01-15T10:07:23Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 281,
+    "status_code": 200,
+    "user_id": "user_17",
+    "request_size_bytes": 3619,
+    "response_size_bytes": 10054
+  },
+  {
+    "timestamp": "2025-01-15T10:07:30Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1020,
+    "status_code": 200,
+    "user_id": "user_58",
+    "request_size_bytes": 1519,
+    "response_size_bytes": 4448
+  },
+  {
+    "timestamp": "2025-01-15T10:07:36Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1523,
+    "status_code": 200,
+    "user_id": "user_44",
+    "request_size_bytes": 1079,
+    "response_size_bytes": 15369
+  },
+  {
+    "timestamp": "2025-01-15T10:07:42Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 662,
+    "status_code": 200,
+    "user_id": "user_30",
+    "request_size_bytes": 3591,
+    "response_size_bytes": 3953
+  },
+  {
+    "timestamp": "2025-01-15T10:07:48Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 1491,
+    "status_code": 500,
+    "user_id": "user_60",
+    "request_size_bytes": 2269,
+    "response_size_bytes": 16096
+  },
+  {
+    "timestamp": "2025-01-15T10:07:55Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1082,
+    "status_code": 200,
+    "user_id": "user_9",
+    "request_size_bytes": 3487,
+    "response_size_bytes": 13380
+  },
+  {
+    "timestamp": "2025-01-15T10:07:57Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 580,
+    "status_code": 200,
+    "user_id": "user_43",
+    "request_size_bytes": 2523,
+    "response_size_bytes": 16688
+  },
+  {
+    "timestamp": "2025-01-15T10:08:02Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 957,
+    "status_code": 200,
+    "user_id": "user_30",
+    "request_size_bytes": 3335,
+    "response_size_bytes": 20295
+  },
+  {
+    "timestamp": "2025-01-15T10:08:07Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 2257,
+    "status_code": 201,
+    "user_id": "user_9",
+    "request_size_bytes": 1127,
+    "response_size_bytes": 11942
+  },
+  {
+    "timestamp": "2025-01-15T10:08:14Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 117,
+    "status_code": 200,
+    "user_id": "user_57",
+    "request_size_bytes": 4092,
+    "response_size_bytes": 16396
+  },
+  {
+    "timestamp": "2025-01-15T10:08:16Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1180,
+    "status_code": 200,
+    "user_id": "user_51",
+    "request_size_bytes": 831,
+    "response_size_bytes": 3389
+  },
+  {
+    "timestamp": "2025-01-15T10:08:19Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 838,
+    "status_code": 200,
+    "user_id": "user_38",
+    "request_size_bytes": 1033,
+    "response_size_bytes": 19165
+  },
+  {
+    "timestamp": "2025-01-15T10:08:26Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 459,
+    "status_code": 200,
+    "user_id": "user_35",
+    "request_size_bytes": 4065,
+    "response_size_bytes": 13485
+  },
+  {
+    "timestamp": "2025-01-15T10:08:30Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1377,
+    "status_code": 200,
+    "user_id": "user_50",
+    "request_size_bytes": 1460,
+    "response_size_bytes": 19635
+  },
+  {
+    "timestamp": "2025-01-15T10:08:36Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 712,
+    "status_code": 404,
+    "user_id": "user_22",
+    "request_size_bytes": 452,
+    "response_size_bytes": 12936
+  },
+  {
+    "timestamp": "2025-01-15T10:08:39Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 322,
+    "status_code": 200,
+    "user_id": "user_12",
+    "request_size_bytes": 2356,
+    "response_size_bytes": 5280
+  },
+  {
+    "timestamp": "2025-01-15T10:08:46Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 1361,
+    "status_code": 200,
+    "user_id": "user_45",
+    "request_size_bytes": 1061,
+    "response_size_bytes": 11149
+  },
+  {
+    "timestamp": "2025-01-15T10:08:49Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1314,
+    "status_code": 200,
+    "user_id": "user_19",
+    "request_size_bytes": 2094,
+    "response_size_bytes": 13236
+  },
+  {
+    "timestamp": "2025-01-15T10:08:51Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 1907,
+    "status_code": 200,
+    "user_id": "user_57",
+    "request_size_bytes": 3921,
+    "response_size_bytes": 20699
+  },
+  {
+    "timestamp": "2025-01-15T10:08:57Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 188,
+    "status_code": 404,
+    "user_id": "user_10",
+    "request_size_bytes": 3603,
+    "response_size_bytes": 4119
+  },
+  {
+    "timestamp": "2025-01-15T10:09:03Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 2549,
+    "status_code": 200,
+    "user_id": "user_46",
+    "request_size_bytes": 1693,
+    "response_size_bytes": 4655
+  },
+  {
+    "timestamp": "2025-01-15T10:09:08Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1387,
+    "status_code": 200,
+    "user_id": "user_23",
+    "request_size_bytes": 1933,
+    "response_size_bytes": 18603
+  },
+  {
+    "timestamp": "2025-01-15T10:09:15Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1668,
+    "status_code": 200,
+    "user_id": "user_58",
+    "request_size_bytes": 1406,
+    "response_size_bytes": 17050
+  },
+  {
+    "timestamp": "2025-01-15T10:09:18Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 2438,
+    "status_code": 200,
+    "user_id": "user_52",
+    "request_size_bytes": 4043,
+    "response_size_bytes": 1200
+  },
+  {
+    "timestamp": "2025-01-15T10:09:24Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1723,
+    "status_code": 200,
+    "user_id": "user_8",
+    "request_size_bytes": 2976,
+    "response_size_bytes": 7246
+  },
+  {
+    "timestamp": "2025-01-15T10:09:31Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 1993,
+    "status_code": 200,
+    "user_id": "user_17",
+    "request_size_bytes": 2418,
+    "response_size_bytes": 21845
+  },
+  {
+    "timestamp": "2025-01-15T10:09:36Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 530,
+    "status_code": 500,
+    "user_id": "user_55",
+    "request_size_bytes": 2297,
+    "response_size_bytes": 5366
+  },
+  {
+    "timestamp": "2025-01-15T10:09:39Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2477,
+    "status_code": 200,
+    "user_id": "user_25",
+    "request_size_bytes": 2605,
+    "response_size_bytes": 17811
+  },
+  {
+    "timestamp": "2025-01-15T10:09:46Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 523,
+    "status_code": 200,
+    "user_id": "user_20",
+    "request_size_bytes": 3712,
+    "response_size_bytes": 8252
+  },
+  {
+    "timestamp": "2025-01-15T10:09:53Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2295,
+    "status_code": 200,
+    "user_id": "user_31",
+    "request_size_bytes": 1686,
+    "response_size_bytes": 6475
+  },
+  {
+    "timestamp": "2025-01-15T10:10:00Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 993,
+    "status_code": 500,
+    "user_id": "user_6",
+    "request_size_bytes": 1955,
+    "response_size_bytes": 7918
+  },
+  {
+    "timestamp": "2025-01-15T10:10:04Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 321,
+    "status_code": 200,
+    "user_id": "user_48",
+    "request_size_bytes": 3065,
+    "response_size_bytes": 19353
+  },
+  {
+    "timestamp": "2025-01-15T10:10:08Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 337,
+    "status_code": 200,
+    "user_id": "user_60",
+    "request_size_bytes": 295,
+    "response_size_bytes": 308
+  },
+  {
+    "timestamp": "2025-01-15T10:10:13Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 1502,
+    "status_code": 200,
+    "user_id": "user_6",
+    "request_size_bytes": 1042,
+    "response_size_bytes": 17694
+  },
+  {
+    "timestamp": "2025-01-15T10:10:17Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 2121,
+    "status_code": 200,
+    "user_id": "user_18",
+    "request_size_bytes": 1854,
+    "response_size_bytes": 18816
+  },
+  {
+    "timestamp": "2025-01-15T10:10:20Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 2388,
+    "status_code": 201,
+    "user_id": "user_51",
+    "request_size_bytes": 2535,
+    "response_size_bytes": 23743
+  },
+  {
+    "timestamp": "2025-01-15T10:10:22Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 1533,
+    "status_code": 200,
+    "user_id": "user_34",
+    "request_size_bytes": 1972,
+    "response_size_bytes": 20211
+  },
+  {
+    "timestamp": "2025-01-15T10:10:29Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 134,
+    "status_code": 404,
+    "user_id": "user_15",
+    "request_size_bytes": 2909,
+    "response_size_bytes": 9207
+  },
+  {
+    "timestamp": "2025-01-15T10:10:32Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1542,
+    "status_code": 200,
+    "user_id": "user_40",
+    "request_size_bytes": 3246,
+    "response_size_bytes": 981
+  },
+  {
+    "timestamp": "2025-01-15T10:10:34Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 1123,
+    "status_code": 500,
+    "user_id": "user_8",
+    "request_size_bytes": 2637,
+    "response_size_bytes": 22848
+  },
+  {
+    "timestamp": "2025-01-15T10:10:36Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 2122,
+    "status_code": 200,
+    "user_id": "user_8",
+    "request_size_bytes": 3557,
+    "response_size_bytes": 7211
+  },
+  {
+    "timestamp": "2025-01-15T10:10:40Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 1890,
+    "status_code": 200,
+    "user_id": "user_28",
+    "request_size_bytes": 249,
+    "response_size_bytes": 2151
+  },
+  {
+    "timestamp": "2025-01-15T10:10:47Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 309,
+    "status_code": 200,
+    "user_id": "user_25",
+    "request_size_bytes": 3885,
+    "response_size_bytes": 1389
+  },
+  {
+    "timestamp": "2025-01-15T10:10:51Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 459,
+    "status_code": 200,
+    "user_id": "user_9",
+    "request_size_bytes": 444,
+    "response_size_bytes": 12221
+  },
+  {
+    "timestamp": "2025-01-15T10:10:58Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 1446,
+    "status_code": 200,
+    "user_id": "user_21",
+    "request_size_bytes": 3931,
+    "response_size_bytes": 22827
+  },
+  {
+    "timestamp": "2025-01-15T10:11:05Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1920,
+    "status_code": 200,
+    "user_id": "user_37",
+    "request_size_bytes": 2239,
+    "response_size_bytes": 15438
+  },
+  {
+    "timestamp": "2025-01-15T10:11:10Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 1962,
+    "status_code": 200,
+    "user_id": "user_16",
+    "request_size_bytes": 987,
+    "response_size_bytes": 14182
+  },
+  {
+    "timestamp": "2025-01-15T10:11:17Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 1852,
+    "status_code": 201,
+    "user_id": "user_43",
+    "request_size_bytes": 3137,
+    "response_size_bytes": 9263
+  },
+  {
+    "timestamp": "2025-01-15T10:11:24Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 567,
+    "status_code": 200,
+    "user_id": "user_38",
+    "request_size_bytes": 539,
+    "response_size_bytes": 16775
+  },
+  {
+    "timestamp": "2025-01-15T10:11:27Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 777,
+    "status_code": 200,
+    "user_id": "user_10",
+    "request_size_bytes": 440,
+    "response_size_bytes": 6135
+  },
+  {
+    "timestamp": "2025-01-15T10:11:32Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1911,
+    "status_code": 500,
+    "user_id": "user_22",
+    "request_size_bytes": 2245,
+    "response_size_bytes": 15323
+  },
+  {
+    "timestamp": "2025-01-15T10:11:38Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 912,
+    "status_code": 200,
+    "user_id": "user_13",
+    "request_size_bytes": 1290,
+    "response_size_bytes": 10187
+  },
+  {
+    "timestamp": "2025-01-15T10:11:44Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 629,
+    "status_code": 200,
+    "user_id": "user_26",
+    "request_size_bytes": 3858,
+    "response_size_bytes": 5483
+  },
+  {
+    "timestamp": "2025-01-15T10:11:48Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 190,
+    "status_code": 200,
+    "user_id": "user_40",
+    "request_size_bytes": 3583,
+    "response_size_bytes": 16307
+  },
+  {
+    "timestamp": "2025-01-15T10:11:54Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 1869,
+    "status_code": 200,
+    "user_id": "user_31",
+    "request_size_bytes": 1993,
+    "response_size_bytes": 4460
+  },
+  {
+    "timestamp": "2025-01-15T10:11:59Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 247,
+    "status_code": 200,
+    "user_id": "user_50",
+    "request_size_bytes": 1863,
+    "response_size_bytes": 19034
+  },
+  {
+    "timestamp": "2025-01-15T10:12:01Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 2202,
+    "status_code": 200,
+    "user_id": "user_37",
+    "request_size_bytes": 289,
+    "response_size_bytes": 13369
+  },
+  {
+    "timestamp": "2025-01-15T10:12:04Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 2464,
+    "status_code": 200,
+    "user_id": "user_29",
+    "request_size_bytes": 2634,
+    "response_size_bytes": 4617
+  },
+  {
+    "timestamp": "2025-01-15T10:12:11Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 853,
+    "status_code": 404,
+    "user_id": "user_42",
+    "request_size_bytes": 1016,
+    "response_size_bytes": 20231
+  },
+  {
+    "timestamp": "2025-01-15T10:12:13Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1094,
+    "status_code": 404,
+    "user_id": "user_21",
+    "request_size_bytes": 3033,
+    "response_size_bytes": 3779
+  },
+  {
+    "timestamp": "2025-01-15T10:12:18Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1516,
+    "status_code": 500,
+    "user_id": "user_37",
+    "request_size_bytes": 2802,
+    "response_size_bytes": 6549
+  },
+  {
+    "timestamp": "2025-01-15T10:12:25Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 541,
+    "status_code": 201,
+    "user_id": "user_20",
+    "request_size_bytes": 2432,
+    "response_size_bytes": 21733
+  },
+  {
+    "timestamp": "2025-01-15T10:12:27Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1428,
+    "status_code": 200,
+    "user_id": "user_7",
+    "request_size_bytes": 2544,
+    "response_size_bytes": 4530
+  },
+  {
+    "timestamp": "2025-01-15T10:12:34Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1016,
+    "status_code": 500,
+    "user_id": "user_18",
+    "request_size_bytes": 202,
+    "response_size_bytes": 19769
+  },
+  {
+    "timestamp": "2025-01-15T10:12:37Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 289,
+    "status_code": 200,
+    "user_id": "user_2",
+    "request_size_bytes": 3709,
+    "response_size_bytes": 17835
+  },
+  {
+    "timestamp": "2025-01-15T10:12:43Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 940,
+    "status_code": 200,
+    "user_id": "user_43",
+    "request_size_bytes": 1526,
+    "response_size_bytes": 18837
+  },
+  {
+    "timestamp": "2025-01-15T10:12:45Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1489,
+    "status_code": 500,
+    "user_id": "user_20",
+    "request_size_bytes": 3098,
+    "response_size_bytes": 23208
+  },
+  {
+    "timestamp": "2025-01-15T10:12:49Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 2528,
+    "status_code": 200,
+    "user_id": "user_49",
+    "request_size_bytes": 1146,
+    "response_size_bytes": 14796
+  },
+  {
+    "timestamp": "2025-01-15T10:12:52Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 274,
+    "status_code": 200,
+    "user_id": "user_16",
+    "request_size_bytes": 543,
+    "response_size_bytes": 5988
+  },
+  {
+    "timestamp": "2025-01-15T10:12:54Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1172,
+    "status_code": 200,
+    "user_id": "user_10",
+    "request_size_bytes": 2334,
+    "response_size_bytes": 21852
+  },
+  {
+    "timestamp": "2025-01-15T10:13:00Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1917,
+    "status_code": 200,
+    "user_id": "user_57",
+    "request_size_bytes": 2209,
+    "response_size_bytes": 16999
+  },
+  {
+    "timestamp": "2025-01-15T10:13:07Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 1647,
+    "status_code": 200,
+    "user_id": "user_19",
+    "request_size_bytes": 3747,
+    "response_size_bytes": 23801
+  },
+  {
+    "timestamp": "2025-01-15T10:13:13Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1074,
+    "status_code": 200,
+    "user_id": "user_33",
+    "request_size_bytes": 2648,
+    "response_size_bytes": 16871
+  },
+  {
+    "timestamp": "2025-01-15T10:13:16Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 1290,
+    "status_code": 200,
+    "user_id": "user_36",
+    "request_size_bytes": 1943,
+    "response_size_bytes": 3032
+  },
+  {
+    "timestamp": "2025-01-15T10:13:18Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 436,
+    "status_code": 201,
+    "user_id": "user_51",
+    "request_size_bytes": 2208,
+    "response_size_bytes": 13101
+  },
+  {
+    "timestamp": "2025-01-15T10:13:20Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 1893,
+    "status_code": 200,
+    "user_id": "user_51",
+    "request_size_bytes": 2486,
+    "response_size_bytes": 11054
+  },
+  {
+    "timestamp": "2025-01-15T10:13:22Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1645,
+    "status_code": 500,
+    "user_id": "user_34",
+    "request_size_bytes": 2199,
+    "response_size_bytes": 5953
+  },
+  {
+    "timestamp": "2025-01-15T10:13:29Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 2415,
+    "status_code": 200,
+    "user_id": "user_58",
+    "request_size_bytes": 1734,
+    "response_size_bytes": 2794
+  },
+  {
+    "timestamp": "2025-01-15T10:13:35Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 2093,
+    "status_code": 200,
+    "user_id": "user_52",
+    "request_size_bytes": 1472,
+    "response_size_bytes": 20126
+  },
+  {
+    "timestamp": "2025-01-15T10:13:39Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 1321,
+    "status_code": 404,
+    "user_id": "user_3",
+    "request_size_bytes": 3808,
+    "response_size_bytes": 13714
+  },
+  {
+    "timestamp": "2025-01-15T10:13:44Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1079,
+    "status_code": 200,
+    "user_id": "user_4",
+    "request_size_bytes": 3921,
+    "response_size_bytes": 19901
+  },
+  {
+    "timestamp": "2025-01-15T10:13:46Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 821,
+    "status_code": 200,
+    "user_id": "user_45",
+    "request_size_bytes": 2795,
+    "response_size_bytes": 17514
+  },
+  {
+    "timestamp": "2025-01-15T10:13:51Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 772,
+    "status_code": 200,
+    "user_id": "user_59",
+    "request_size_bytes": 953,
+    "response_size_bytes": 18100
+  },
+  {
+    "timestamp": "2025-01-15T10:13:56Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1020,
+    "status_code": 200,
+    "user_id": "user_59",
+    "request_size_bytes": 2995,
+    "response_size_bytes": 10377
+  },
+  {
+    "timestamp": "2025-01-15T10:14:01Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 754,
+    "status_code": 200,
+    "user_id": "user_1",
+    "request_size_bytes": 2558,
+    "response_size_bytes": 23087
+  },
+  {
+    "timestamp": "2025-01-15T10:14:03Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 485,
+    "status_code": 200,
+    "user_id": "user_10",
+    "request_size_bytes": 1324,
+    "response_size_bytes": 19000
+  },
+  {
+    "timestamp": "2025-01-15T10:14:07Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 1486,
+    "status_code": 404,
+    "user_id": "user_11",
+    "request_size_bytes": 1710,
+    "response_size_bytes": 8723
+  },
+  {
+    "timestamp": "2025-01-15T10:14:09Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1902,
+    "status_code": 200,
+    "user_id": "user_46",
+    "request_size_bytes": 1000,
+    "response_size_bytes": 23743
+  },
+  {
+    "timestamp": "2025-01-15T10:14:15Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 581,
+    "status_code": 200,
+    "user_id": "user_38",
+    "request_size_bytes": 2805,
+    "response_size_bytes": 21263
+  },
+  {
+    "timestamp": "2025-01-15T10:14:17Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1621,
+    "status_code": 200,
+    "user_id": "user_15",
+    "request_size_bytes": 3848,
+    "response_size_bytes": 12880
+  },
+  {
+    "timestamp": "2025-01-15T10:14:19Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 1772,
+    "status_code": 200,
+    "user_id": "user_40",
+    "request_size_bytes": 2196,
+    "response_size_bytes": 2523
+  },
+  {
+    "timestamp": "2025-01-15T10:14:25Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 114,
+    "status_code": 200,
+    "user_id": "user_36",
+    "request_size_bytes": 1229,
+    "response_size_bytes": 5018
+  },
+  {
+    "timestamp": "2025-01-15T10:14:28Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 1898,
+    "status_code": 200,
+    "user_id": "user_13",
+    "request_size_bytes": 1429,
+    "response_size_bytes": 21575
+  },
+  {
+    "timestamp": "2025-01-15T10:14:34Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 2438,
+    "status_code": 200,
+    "user_id": "user_23",
+    "request_size_bytes": 2322,
+    "response_size_bytes": 12922
+  },
+  {
+    "timestamp": "2025-01-15T10:14:41Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 460,
+    "status_code": 200,
+    "user_id": "user_29",
+    "request_size_bytes": 481,
+    "response_size_bytes": 19510
+  },
+  {
+    "timestamp": "2025-01-15T10:14:43Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 590,
+    "status_code": 200,
+    "user_id": "user_9",
+    "request_size_bytes": 335,
+    "response_size_bytes": 9637
+  },
+  {
+    "timestamp": "2025-01-15T10:14:48Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 893,
+    "status_code": 404,
+    "user_id": "user_4",
+    "request_size_bytes": 2791,
+    "response_size_bytes": 22466
+  },
+  {
+    "timestamp": "2025-01-15T10:14:55Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 834,
+    "status_code": 200,
+    "user_id": "user_55",
+    "request_size_bytes": 3596,
+    "response_size_bytes": 4725
+  },
+  {
+    "timestamp": "2025-01-15T10:14:58Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 1653,
+    "status_code": 201,
+    "user_id": "user_11",
+    "request_size_bytes": 1024,
+    "response_size_bytes": 6953
+  },
+  {
+    "timestamp": "2025-01-15T10:15:04Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 2281,
+    "status_code": 200,
+    "user_id": "user_2",
+    "request_size_bytes": 1129,
+    "response_size_bytes": 20925
+  },
+  {
+    "timestamp": "2025-01-15T10:15:07Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 1848,
+    "status_code": 200,
+    "user_id": "user_5",
+    "request_size_bytes": 1008,
+    "response_size_bytes": 14013
+  },
+  {
+    "timestamp": "2025-01-15T10:15:12Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1909,
+    "status_code": 200,
+    "user_id": "user_13",
+    "request_size_bytes": 625,
+    "response_size_bytes": 22892
+  },
+  {
+    "timestamp": "2025-01-15T10:15:16Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1901,
+    "status_code": 200,
+    "user_id": "user_20",
+    "request_size_bytes": 2031,
+    "response_size_bytes": 11904
+  },
+  {
+    "timestamp": "2025-01-15T10:15:22Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2208,
+    "status_code": 200,
+    "user_id": "user_52",
+    "request_size_bytes": 3384,
+    "response_size_bytes": 15994
+  },
+  {
+    "timestamp": "2025-01-15T10:15:25Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 378,
+    "status_code": 200,
+    "user_id": "user_5",
+    "request_size_bytes": 3991,
+    "response_size_bytes": 926
+  },
+  {
+    "timestamp": "2025-01-15T10:15:31Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 1536,
+    "status_code": 200,
+    "user_id": "user_29",
+    "request_size_bytes": 3269,
+    "response_size_bytes": 3905
+  },
+  {
+    "timestamp": "2025-01-15T10:15:33Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 1935,
+    "status_code": 200,
+    "user_id": "user_56",
+    "request_size_bytes": 2346,
+    "response_size_bytes": 14666
+  },
+  {
+    "timestamp": "2025-01-15T10:15:37Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2085,
+    "status_code": 200,
+    "user_id": "user_11",
+    "request_size_bytes": 935,
+    "response_size_bytes": 9654
+  },
+  {
+    "timestamp": "2025-01-15T10:15:40Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 1689,
+    "status_code": 200,
+    "user_id": "user_28",
+    "request_size_bytes": 3452,
+    "response_size_bytes": 14840
+  },
+  {
+    "timestamp": "2025-01-15T10:15:47Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1211,
+    "status_code": 200,
+    "user_id": "user_29",
+    "request_size_bytes": 500,
+    "response_size_bytes": 12625
+  },
+  {
+    "timestamp": "2025-01-15T10:15:53Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 2282,
+    "status_code": 200,
+    "user_id": "user_60",
+    "request_size_bytes": 3978,
+    "response_size_bytes": 16817
+  },
+  {
+    "timestamp": "2025-01-15T10:15:56Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 2386,
+    "status_code": 200,
+    "user_id": "user_38",
+    "request_size_bytes": 2233,
+    "response_size_bytes": 6119
+  },
+  {
+    "timestamp": "2025-01-15T10:16:00Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 572,
+    "status_code": 200,
+    "user_id": "user_60",
+    "request_size_bytes": 2605,
+    "response_size_bytes": 10054
+  },
+  {
+    "timestamp": "2025-01-15T10:16:04Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1991,
+    "status_code": 200,
+    "user_id": "user_1",
+    "request_size_bytes": 269,
+    "response_size_bytes": 19020
+  },
+  {
+    "timestamp": "2025-01-15T10:16:07Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 1382,
+    "status_code": 200,
+    "user_id": "user_30",
+    "request_size_bytes": 2576,
+    "response_size_bytes": 1545
+  },
+  {
+    "timestamp": "2025-01-15T10:16:13Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 2433,
+    "status_code": 200,
+    "user_id": "user_5",
+    "request_size_bytes": 3136,
+    "response_size_bytes": 19138
+  },
+  {
+    "timestamp": "2025-01-15T10:16:18Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 837,
+    "status_code": 200,
+    "user_id": "user_3",
+    "request_size_bytes": 782,
+    "response_size_bytes": 20741
+  },
+  {
+    "timestamp": "2025-01-15T10:16:25Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 2414,
+    "status_code": 200,
+    "user_id": "user_2",
+    "request_size_bytes": 3287,
+    "response_size_bytes": 1046
+  },
+  {
+    "timestamp": "2025-01-15T10:16:29Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 1205,
+    "status_code": 200,
+    "user_id": "user_45",
+    "request_size_bytes": 3021,
+    "response_size_bytes": 2569
+  },
+  {
+    "timestamp": "2025-01-15T10:16:32Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 2551,
+    "status_code": 200,
+    "user_id": "user_57",
+    "request_size_bytes": 2864,
+    "response_size_bytes": 13209
+  },
+  {
+    "timestamp": "2025-01-15T10:16:35Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 1736,
+    "status_code": 200,
+    "user_id": "user_57",
+    "request_size_bytes": 3503,
+    "response_size_bytes": 11588
+  },
+  {
+    "timestamp": "2025-01-15T10:16:42Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 1449,
+    "status_code": 200,
+    "user_id": "user_5",
+    "request_size_bytes": 1705,
+    "response_size_bytes": 17358
+  },
+  {
+    "timestamp": "2025-01-15T10:16:47Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 2599,
+    "status_code": 200,
+    "user_id": "user_33",
+    "request_size_bytes": 2109,
+    "response_size_bytes": 8982
+  },
+  {
+    "timestamp": "2025-01-15T10:16:54Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 1372,
+    "status_code": 500,
+    "user_id": "user_52",
+    "request_size_bytes": 3352,
+    "response_size_bytes": 818
+  },
+  {
+    "timestamp": "2025-01-15T10:16:57Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 300,
+    "status_code": 200,
+    "user_id": "user_29",
+    "request_size_bytes": 3490,
+    "response_size_bytes": 22537
+  },
+  {
+    "timestamp": "2025-01-15T10:17:01Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 1209,
+    "status_code": 200,
+    "user_id": "user_13",
+    "request_size_bytes": 3170,
+    "response_size_bytes": 18812
+  },
+  {
+    "timestamp": "2025-01-15T10:17:03Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 705,
+    "status_code": 200,
+    "user_id": "user_47",
+    "request_size_bytes": 2852,
+    "response_size_bytes": 5117
+  },
+  {
+    "timestamp": "2025-01-15T10:17:06Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1151,
+    "status_code": 200,
+    "user_id": "user_14",
+    "request_size_bytes": 941,
+    "response_size_bytes": 2563
+  },
+  {
+    "timestamp": "2025-01-15T10:17:09Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 1382,
+    "status_code": 200,
+    "user_id": "user_46",
+    "request_size_bytes": 3877,
+    "response_size_bytes": 11300
+  },
+  {
+    "timestamp": "2025-01-15T10:17:16Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1187,
+    "status_code": 200,
+    "user_id": "user_49",
+    "request_size_bytes": 523,
+    "response_size_bytes": 10431
+  },
+  {
+    "timestamp": "2025-01-15T10:17:23Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 2047,
+    "status_code": 200,
+    "user_id": "user_48",
+    "request_size_bytes": 488,
+    "response_size_bytes": 21458
+  },
+  {
+    "timestamp": "2025-01-15T10:17:28Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 1132,
+    "status_code": 200,
+    "user_id": "user_11",
+    "request_size_bytes": 2421,
+    "response_size_bytes": 20551
+  },
+  {
+    "timestamp": "2025-01-15T10:17:32Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1797,
+    "status_code": 200,
+    "user_id": "user_60",
+    "request_size_bytes": 2588,
+    "response_size_bytes": 13170
+  },
+  {
+    "timestamp": "2025-01-15T10:17:35Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 628,
+    "status_code": 200,
+    "user_id": "user_32",
+    "request_size_bytes": 3299,
+    "response_size_bytes": 17938
+  },
+  {
+    "timestamp": "2025-01-15T10:17:37Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 751,
+    "status_code": 200,
+    "user_id": "user_32",
+    "request_size_bytes": 3557,
+    "response_size_bytes": 13634
+  },
+  {
+    "timestamp": "2025-01-15T10:17:44Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1003,
+    "status_code": 200,
+    "user_id": "user_54",
+    "request_size_bytes": 3596,
+    "response_size_bytes": 12452
+  },
+  {
+    "timestamp": "2025-01-15T10:17:50Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 492,
+    "status_code": 200,
+    "user_id": "user_52",
+    "request_size_bytes": 2678,
+    "response_size_bytes": 14619
+  },
+  {
+    "timestamp": "2025-01-15T10:17:53Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 523,
+    "status_code": 200,
+    "user_id": "user_27",
+    "request_size_bytes": 674,
+    "response_size_bytes": 10965
+  },
+  {
+    "timestamp": "2025-01-15T10:17:59Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1659,
+    "status_code": 200,
+    "user_id": "user_38",
+    "request_size_bytes": 4001,
+    "response_size_bytes": 21973
+  },
+  {
+    "timestamp": "2025-01-15T10:18:03Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 889,
+    "status_code": 200,
+    "user_id": "user_55",
+    "request_size_bytes": 1850,
+    "response_size_bytes": 14789
+  },
+  {
+    "timestamp": "2025-01-15T10:18:07Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 343,
+    "status_code": 200,
+    "user_id": "user_41",
+    "request_size_bytes": 3168,
+    "response_size_bytes": 6566
+  },
+  {
+    "timestamp": "2025-01-15T10:18:12Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 1199,
+    "status_code": 200,
+    "user_id": "user_39",
+    "request_size_bytes": 1092,
+    "response_size_bytes": 1099
+  },
+  {
+    "timestamp": "2025-01-15T10:18:19Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 475,
+    "status_code": 500,
+    "user_id": "user_30",
+    "request_size_bytes": 2913,
+    "response_size_bytes": 16556
+  },
+  {
+    "timestamp": "2025-01-15T10:18:25Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 823,
+    "status_code": 200,
+    "user_id": "user_32",
+    "request_size_bytes": 2589,
+    "response_size_bytes": 7171
+  },
+  {
+    "timestamp": "2025-01-15T10:18:27Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 507,
+    "status_code": 200,
+    "user_id": "user_54",
+    "request_size_bytes": 3372,
+    "response_size_bytes": 9974
+  },
+  {
+    "timestamp": "2025-01-15T10:18:31Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 415,
+    "status_code": 200,
+    "user_id": "user_6",
+    "request_size_bytes": 2231,
+    "response_size_bytes": 2871
+  },
+  {
+    "timestamp": "2025-01-15T10:18:36Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 1547,
+    "status_code": 200,
+    "user_id": "user_16",
+    "request_size_bytes": 1122,
+    "response_size_bytes": 23394
+  },
+  {
+    "timestamp": "2025-01-15T10:18:42Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 1335,
+    "status_code": 201,
+    "user_id": "user_54",
+    "request_size_bytes": 474,
+    "response_size_bytes": 19324
+  },
+  {
+    "timestamp": "2025-01-15T10:18:48Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 1776,
+    "status_code": 201,
+    "user_id": "user_47",
+    "request_size_bytes": 502,
+    "response_size_bytes": 5417
+  },
+  {
+    "timestamp": "2025-01-15T10:18:50Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 67,
+    "status_code": 500,
+    "user_id": "user_22",
+    "request_size_bytes": 2067,
+    "response_size_bytes": 18175
+  },
+  {
+    "timestamp": "2025-01-15T10:18:57Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 2093,
+    "status_code": 200,
+    "user_id": "user_3",
+    "request_size_bytes": 3642,
+    "response_size_bytes": 8605
+  },
+  {
+    "timestamp": "2025-01-15T10:18:59Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 1042,
+    "status_code": 200,
+    "user_id": "user_8",
+    "request_size_bytes": 2771,
+    "response_size_bytes": 720
+  },
+  {
+    "timestamp": "2025-01-15T10:19:04Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 378,
+    "status_code": 200,
+    "user_id": "user_36",
+    "request_size_bytes": 2157,
+    "response_size_bytes": 3587
+  },
+  {
+    "timestamp": "2025-01-15T10:19:06Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1027,
+    "status_code": 200,
+    "user_id": "user_44",
+    "request_size_bytes": 700,
+    "response_size_bytes": 20263
+  },
+  {
+    "timestamp": "2025-01-15T10:19:12Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 2107,
+    "status_code": 200,
+    "user_id": "user_1",
+    "request_size_bytes": 2940,
+    "response_size_bytes": 6108
+  },
+  {
+    "timestamp": "2025-01-15T10:19:17Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 694,
+    "status_code": 200,
+    "user_id": "user_49",
+    "request_size_bytes": 3658,
+    "response_size_bytes": 17337
+  },
+  {
+    "timestamp": "2025-01-15T10:19:20Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 1027,
+    "status_code": 200,
+    "user_id": "user_50",
+    "request_size_bytes": 3663,
+    "response_size_bytes": 18814
+  },
+  {
+    "timestamp": "2025-01-15T10:19:22Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1796,
+    "status_code": 200,
+    "user_id": "user_9",
+    "request_size_bytes": 2792,
+    "response_size_bytes": 13136
+  },
+  {
+    "timestamp": "2025-01-15T10:19:26Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 2564,
+    "status_code": 200,
+    "user_id": "user_46",
+    "request_size_bytes": 2181,
+    "response_size_bytes": 2898
+  },
+  {
+    "timestamp": "2025-01-15T10:19:31Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 2196,
+    "status_code": 200,
+    "user_id": "user_19",
+    "request_size_bytes": 3490,
+    "response_size_bytes": 6604
+  },
+  {
+    "timestamp": "2025-01-15T10:19:37Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 1601,
+    "status_code": 200,
+    "user_id": "user_51",
+    "request_size_bytes": 517,
+    "response_size_bytes": 18405
+  },
+  {
+    "timestamp": "2025-01-15T10:19:39Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1842,
+    "status_code": 200,
+    "user_id": "user_21",
+    "request_size_bytes": 2423,
+    "response_size_bytes": 3072
+  },
+  {
+    "timestamp": "2025-01-15T10:19:43Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1963,
+    "status_code": 201,
+    "user_id": "user_41",
+    "request_size_bytes": 1727,
+    "response_size_bytes": 21335
+  },
+  {
+    "timestamp": "2025-01-15T10:19:49Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 926,
+    "status_code": 200,
+    "user_id": "user_52",
+    "request_size_bytes": 1137,
+    "response_size_bytes": 22726
+  },
+  {
+    "timestamp": "2025-01-15T10:19:54Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 118,
+    "status_code": 200,
+    "user_id": "user_50",
+    "request_size_bytes": 3176,
+    "response_size_bytes": 14792
+  },
+  {
+    "timestamp": "2025-01-15T10:19:57Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 2185,
+    "status_code": 500,
+    "user_id": "user_38",
+    "request_size_bytes": 3135,
+    "response_size_bytes": 16951
+  },
+  {
+    "timestamp": "2025-01-15T10:20:01Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2163,
+    "status_code": 200,
+    "user_id": "user_38",
+    "request_size_bytes": 1349,
+    "response_size_bytes": 11577
+  },
+  {
+    "timestamp": "2025-01-15T10:20:03Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 1895,
+    "status_code": 200,
+    "user_id": "user_1",
+    "request_size_bytes": 2066,
+    "response_size_bytes": 16791
+  },
+  {
+    "timestamp": "2025-01-15T10:20:10Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 2237,
+    "status_code": 200,
+    "user_id": "user_6",
+    "request_size_bytes": 1257,
+    "response_size_bytes": 13443
+  },
+  {
+    "timestamp": "2025-01-15T10:20:12Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 1977,
+    "status_code": 200,
+    "user_id": "user_19",
+    "request_size_bytes": 1019,
+    "response_size_bytes": 15282
+  },
+  {
+    "timestamp": "2025-01-15T10:20:18Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 1245,
+    "status_code": 200,
+    "user_id": "user_24",
+    "request_size_bytes": 2643,
+    "response_size_bytes": 15600
+  },
+  {
+    "timestamp": "2025-01-15T10:20:22Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 863,
+    "status_code": 200,
+    "user_id": "user_59",
+    "request_size_bytes": 2224,
+    "response_size_bytes": 18847
+  },
+  {
+    "timestamp": "2025-01-15T10:20:24Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1653,
+    "status_code": 200,
+    "user_id": "user_3",
+    "request_size_bytes": 1332,
+    "response_size_bytes": 15039
+  },
+  {
+    "timestamp": "2025-01-15T10:20:29Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1370,
+    "status_code": 200,
+    "user_id": "user_49",
+    "request_size_bytes": 4094,
+    "response_size_bytes": 14195
+  },
+  {
+    "timestamp": "2025-01-15T10:20:34Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1367,
+    "status_code": 200,
+    "user_id": "user_27",
+    "request_size_bytes": 493,
+    "response_size_bytes": 9387
+  },
+  {
+    "timestamp": "2025-01-15T10:20:36Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 610,
+    "status_code": 200,
+    "user_id": "user_1",
+    "request_size_bytes": 1047,
+    "response_size_bytes": 23069
+  },
+  {
+    "timestamp": "2025-01-15T10:20:43Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 632,
+    "status_code": 200,
+    "user_id": "user_60",
+    "request_size_bytes": 218,
+    "response_size_bytes": 13765
+  },
+  {
+    "timestamp": "2025-01-15T10:20:49Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 871,
+    "status_code": 200,
+    "user_id": "user_11",
+    "request_size_bytes": 2226,
+    "response_size_bytes": 18531
+  },
+  {
+    "timestamp": "2025-01-15T10:20:53Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 1235,
+    "status_code": 404,
+    "user_id": "user_8",
+    "request_size_bytes": 1769,
+    "response_size_bytes": 17253
+  },
+  {
+    "timestamp": "2025-01-15T10:20:59Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 702,
+    "status_code": 200,
+    "user_id": "user_50",
+    "request_size_bytes": 3647,
+    "response_size_bytes": 17427
+  },
+  {
+    "timestamp": "2025-01-15T10:21:03Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1715,
+    "status_code": 201,
+    "user_id": "user_13",
+    "request_size_bytes": 1590,
+    "response_size_bytes": 4612
+  },
+  {
+    "timestamp": "2025-01-15T10:21:06Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 723,
+    "status_code": 200,
+    "user_id": "user_52",
+    "request_size_bytes": 1947,
+    "response_size_bytes": 16992
+  },
+  {
+    "timestamp": "2025-01-15T10:21:13Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 2487,
+    "status_code": 200,
+    "user_id": "user_34",
+    "request_size_bytes": 3635,
+    "response_size_bytes": 9237
+  },
+  {
+    "timestamp": "2025-01-15T10:21:17Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 1097,
+    "status_code": 200,
+    "user_id": "user_48",
+    "request_size_bytes": 3144,
+    "response_size_bytes": 18077
+  },
+  {
+    "timestamp": "2025-01-15T10:21:19Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 1186,
+    "status_code": 404,
+    "user_id": "user_34",
+    "request_size_bytes": 3838,
+    "response_size_bytes": 17650
+  },
+  {
+    "timestamp": "2025-01-15T10:21:24Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1576,
+    "status_code": 200,
+    "user_id": "user_36",
+    "request_size_bytes": 3041,
+    "response_size_bytes": 821
+  },
+  {
+    "timestamp": "2025-01-15T10:21:29Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 309,
+    "status_code": 200,
+    "user_id": "user_30",
+    "request_size_bytes": 2170,
+    "response_size_bytes": 3732
+  },
+  {
+    "timestamp": "2025-01-15T10:21:32Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 2206,
+    "status_code": 200,
+    "user_id": "user_31",
+    "request_size_bytes": 3627,
+    "response_size_bytes": 4000
+  },
+  {
+    "timestamp": "2025-01-15T10:21:38Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 634,
+    "status_code": 200,
+    "user_id": "user_15",
+    "request_size_bytes": 1974,
+    "response_size_bytes": 9635
+  },
+  {
+    "timestamp": "2025-01-15T10:21:43Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1664,
+    "status_code": 200,
+    "user_id": "user_28",
+    "request_size_bytes": 1317,
+    "response_size_bytes": 4813
+  },
+  {
+    "timestamp": "2025-01-15T10:21:45Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 685,
+    "status_code": 200,
+    "user_id": "user_6",
+    "request_size_bytes": 3646,
+    "response_size_bytes": 11785
+  },
+  {
+    "timestamp": "2025-01-15T10:21:51Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 484,
+    "status_code": 200,
+    "user_id": "user_19",
+    "request_size_bytes": 1435,
+    "response_size_bytes": 23479
+  },
+  {
+    "timestamp": "2025-01-15T10:21:56Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 2401,
+    "status_code": 200,
+    "user_id": "user_11",
+    "request_size_bytes": 853,
+    "response_size_bytes": 16710
+  },
+  {
+    "timestamp": "2025-01-15T10:22:00Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 2071,
+    "status_code": 200,
+    "user_id": "user_38",
+    "request_size_bytes": 4073,
+    "response_size_bytes": 7004
+  },
+  {
+    "timestamp": "2025-01-15T10:22:07Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1329,
+    "status_code": 200,
+    "user_id": "user_59",
+    "request_size_bytes": 1903,
+    "response_size_bytes": 7511
+  },
+  {
+    "timestamp": "2025-01-15T10:22:12Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1931,
+    "status_code": 200,
+    "user_id": "user_33",
+    "request_size_bytes": 1990,
+    "response_size_bytes": 5345
+  },
+  {
+    "timestamp": "2025-01-15T10:22:14Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 1105,
+    "status_code": 200,
+    "user_id": "user_6",
+    "request_size_bytes": 909,
+    "response_size_bytes": 17856
+  },
+  {
+    "timestamp": "2025-01-15T10:22:19Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 1163,
+    "status_code": 200,
+    "user_id": "user_50",
+    "request_size_bytes": 1158,
+    "response_size_bytes": 16016
+  },
+  {
+    "timestamp": "2025-01-15T10:22:23Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 1307,
+    "status_code": 200,
+    "user_id": "user_17",
+    "request_size_bytes": 1000,
+    "response_size_bytes": 10403
+  },
+  {
+    "timestamp": "2025-01-15T10:22:25Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 1622,
+    "status_code": 200,
+    "user_id": "user_6",
+    "request_size_bytes": 1824,
+    "response_size_bytes": 16910
+  },
+  {
+    "timestamp": "2025-01-15T10:22:29Z",
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "response_time_ms": 1994,
+    "status_code": 201,
+    "user_id": "user_60",
+    "request_size_bytes": 3552,
+    "response_size_bytes": 21495
+  },
+  {
+    "timestamp": "2025-01-15T10:22:33Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 1060,
+    "status_code": 200,
+    "user_id": "user_5",
+    "request_size_bytes": 2715,
+    "response_size_bytes": 19182
+  },
+  {
+    "timestamp": "2025-01-15T10:22:37Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 1046,
+    "status_code": 200,
+    "user_id": "user_18",
+    "request_size_bytes": 223,
+    "response_size_bytes": 19442
+  },
+  {
+    "timestamp": "2025-01-15T10:22:42Z",
+    "endpoint": "/api/notifications",
+    "method": "POST",
+    "response_time_ms": 1847,
+    "status_code": 200,
+    "user_id": "user_49",
+    "request_size_bytes": 1202,
+    "response_size_bytes": 12301
+  },
+  {
+    "timestamp": "2025-01-15T10:22:48Z",
+    "endpoint": "/api/notifications",
+    "method": "GET",
+    "response_time_ms": 2225,
+    "status_code": 200,
+    "user_id": "user_33",
+    "request_size_bytes": 2250,
+    "response_size_bytes": 18064
+  },
+  {
+    "timestamp": "2025-01-15T10:22:55Z",
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "response_time_ms": 423,
+    "status_code": 200,
+    "user_id": "user_3",
+    "request_size_bytes": 4048,
+    "response_size_bytes": 14687
+  },
+  {
+    "timestamp": "2025-01-15T10:22:58Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 110,
+    "status_code": 200,
+    "user_id": "user_10",
+    "request_size_bytes": 2639,
+    "response_size_bytes": 23438
+  },
+  {
+    "timestamp": "2025-01-15T10:23:02Z",
+    "endpoint": "/api/search",
+    "method": "POST",
+    "response_time_ms": 691,
+    "status_code": 200,
+    "user_id": "user_25",
+    "request_size_bytes": 614,
+    "response_size_bytes": 22902
+  },
+  {
+    "timestamp": "2025-01-15T10:23:07Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 1185,
+    "status_code": 200,
+    "user_id": "user_20",
+    "request_size_bytes": 327,
+    "response_size_bytes": 670
+  },
+  {
+    "timestamp": "2025-01-15T10:23:14Z",
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "response_time_ms": 406,
+    "status_code": 404,
+    "user_id": "user_39",
+    "request_size_bytes": 2913,
+    "response_size_bytes": 13990
+  }
+]
