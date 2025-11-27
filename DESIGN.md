@@ -58,7 +58,7 @@ With these improvements, the system can scale horizontally for **high-volume pro
 
 ---
 
-## 🔧 What I Would Improve With More Time
+## What I Would Improve With More Time
 
 If additional time were available, I would implement:
 
@@ -74,7 +74,7 @@ These refinements would evolve the project from analytics into a **full observab
 
 ---
 
-## ⏱ Time Spent
+## Time Spent
 
 Approximately **7 hours total** including:
 
@@ -86,7 +86,7 @@ Approximately **7 hours total** including:
 
 ---
 
-## 📌 Assumptions
+## Assumptions
 
 To prevent ambiguity, I made the following reasonable assumptions:
 

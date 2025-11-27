@@ -101,6 +101,8 @@ TOTAL COVERAGE: >80%
 * Processes more than 10,000 log entries in under 2 seconds
 * Single-pass O(n) aggregation over the dataset
 * Core functionality has no heavy external dependencies
+* Core functionality has no heavy external dependencies
+* Space Complexity: O(e + u + h) — depends on number of unique endpoints(we store per-endpoint stats), number of users(for top users count), number of hours(for hourly distribution) respectivelyx
 
 ---
 
@@ -129,7 +131,7 @@ TOTAL COVERAGE: >80%
 
 ## Estimated Time Investment
 
-Approximately 14–18 hours including design, implementation, testing, benchmarking, and documentation.
+Approximately 7 hours including design, implementation, testing, benchmarking, and documentation.
 
 ---
 
