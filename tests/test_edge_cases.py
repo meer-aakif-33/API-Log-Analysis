@@ -11,7 +11,7 @@ def test_invalid_types():
             "timestamp": "2025-01-15T10:30:00Z",
             "endpoint": "/api/type",
             "method": "GET",
-            "response_time_ms": "not-a-number",  # invalid
+            "response_time_ms": "not-a-number",   # invalid
             "status_code": 200,
         }
     ]
