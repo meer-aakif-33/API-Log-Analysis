@@ -166,11 +166,6 @@ Output (abridged):
 
 ---
 
-## Estimated Time Investment
-
-Approximately 7 hours including design, implementation, testing, benchmarking, and documentation.
-
----
 
 ## Possible Future Enhancements
 
