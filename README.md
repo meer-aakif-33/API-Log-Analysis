@@ -1,4 +1,4 @@
-# Rival.io – API Log Analysis (Python)
+# API Log Analysis (Python)
 
 This project implements a scalable analytics engine for processing API usage logs in a serverless environment.
 The central function, `analyze_api_logs`, ingests raw API event data and generates detailed insights including performance metrics, error patterns, user behavior analysis, cost breakdowns, and caching optimization opportunities.
